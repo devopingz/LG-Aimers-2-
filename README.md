@@ -1,7 +1,7 @@
 # LG Aimers 2기 온라인해커톤
 ## 스마트 공장의 제어 시스템 구축을 위한 제품 품질 분류 AI 모델 개발  
 ### 주최 / 주관 : LG AI Research / 데이콘 (2023.02.01 ~ 2023.02.28)
-### 순위<br> ![hackerton](https://github.com/devopingz/LG-Aimers-2-online-hackerton/assets/56243414/cabe19c2-e991-48a4-a690-7b77bc4315b4)
+### 순위 public 15위 / private 22위 <br> ![hackerton](https://github.com/devopingz/LG-Aimers-2-online-hackerton/assets/56243414/cabe19c2-e991-48a4-a690-7b77bc4315b4)
 #### 코드실행환경
 ##### Python: ver 3.8.10
 ##### Google Colab: Linux-5.10.147+-x86_64-with-glibc2.29, Ubuntu 20.04.5 LTS
